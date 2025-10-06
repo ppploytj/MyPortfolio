@@ -1,0 +1,16 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    font-family:'Bauhaus 93';
+    color:deeppink;
+}
+
+div{
+    color:blueviolet;
+    background-color:aliceblue;
+}
+
+@media only screen and (max-width: 767px){
+    
+}
