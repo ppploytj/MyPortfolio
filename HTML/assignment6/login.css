@@ -1,0 +1,15 @@
+body{
+    background-color:lightsalmon;
+}
+.error {
+    color: red;
+    font-weight: bold;
+}
+span {
+    color: red;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 767px){
+    
+}

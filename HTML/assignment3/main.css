@@ -1,0 +1,43 @@
+body{
+    background-color: #F0EDED;
+}
+table{
+    width: 50%;
+    margin: auto;
+}
+#chicken7_pic{
+    width: 30%;
+    border: 5px dotted #668231;
+    border-radius: 300px;
+    vertical-align: middle;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: #35540A;
+    text-align: right;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #407300;
+}
+h4{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #484A32;
+}
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}
+.flex_container > div{
+    border: 3px dotted #35540A;
+    margin: auto;
+}
+a{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #306912;}
